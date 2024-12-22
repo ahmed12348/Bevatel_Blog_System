@@ -1,0 +1,17 @@
+composer remove maatwebsite/excel
+composer require maatwebsite/excel:^3.1.22 --with-all-dependencies
+php artisan cache:clear
+php artisan config:clear
+php artisan route:clear
+php artisan view:clear
+composer dump-autoload
+php artisan vendor:publish --provider="Maatwebsite\Excel\ExcelServiceProvider"
+
+composer require laravel/ui
+
+php artisan ui vue --auth
+
+npm audit fix --force
+
+
+php artisan optimize:clear
