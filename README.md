@@ -142,7 +142,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 If you have any questions or feedback, feel free to contact:
 
 - **Email**: ahmed.elbatal954@gmail.com
-- **GitHub**: [yourusername](https://github.com/ahmed12348)
+- **GitHub**: [ahmed12348](https://github.com/ahmed12348)
 
 
 ---
